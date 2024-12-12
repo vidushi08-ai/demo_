@@ -1,2 +1,2 @@
 # demo_
-this is data analyst project.
+this is for data analyst project.
